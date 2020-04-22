@@ -1,3 +1,8 @@
+[![Build](https://img.shields.io/badge/dev-gorpo-brightgreen.svg)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/python-v3.7-blue.svg)]()
+[![Build](https://img.shields.io/badge/windows-7%208%2010-blue.svg)]()
+[![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()<br>
 # Aladin-Telegram-Bot-Python
   <h6 align="center">
    <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
