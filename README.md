@@ -1,5 +1,9 @@
 # Aladin-Telegram-Bot-Python
-Bot de controle do jogo aladin com Znes via telegram e localhost.<br>
+  <h6 align="center">
+   <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
+       <h2 align="center">Aladin Zsnes Telegram Bot Python</h2>
+  </h6>
+<h3> Bot de controle do jogo aladin com Znes via telegram e localhost</h3><br>
 
 Tutorial: https://youtu.be/ARv71s85TUA  <br>
 Bot do supermario: https://github.com/gorpo/Super-Mario-Telegram-Bot-Python <br>
