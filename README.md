@@ -12,6 +12,7 @@
 
 Tutorial: https://youtu.be/ARv71s85TUA  <br>
 Bot do supermario: https://github.com/gorpo/Super-Mario-Telegram-Bot-Python <br>
+Bot do Contra3: https://github.com/gorpo/Contra3-Znes-Telegram-Bot-Python
 OBS: Basta inserir dentro das aspas a API do seu bot do telegram a qual vc recebe no bot father!<br>
 
 Créditos do Gerenciador de memória e base para os codigos aqui descritos: 
